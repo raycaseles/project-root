@@ -2,7 +2,7 @@ Project title: Simply GenAI <br>
 Short overview: <br>
   Just a simple website about GenAI <br>
 Instructions on how to run the project: <br>
-  https://docs.google.com/document/d/1NB45eTqFQKvwh6csrQoJCsPEySUzsnyUEMmGiOdnL7A/edit?tab=t.0#heading=h.qoo88z4zgla <br>
+  (As of 11-26-25) Copy paste the file or its contents, then open the file via browser. <br>
 Frameworks/libraries used: <br>
   Bootstrap <br>
 Screenshot of your website <br>
